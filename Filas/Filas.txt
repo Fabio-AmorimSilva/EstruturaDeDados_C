@@ -1,0 +1,10 @@
+Filas
+
+ - As filas são estruturas de dados que funcionam de forma diferente das pilhas, podemos fazer um paralelo com uma fila de supermercado, o o primeiro a chegar é o primeiro a ser atendido, ou seja, FIFO (First in/ First out). Além disso, tanto o começo quanfo o final da fila são usados.
+ - Operações da Fila
+   - Limpa() - esvazia a fila.
+   - Vazia() - verifica se a fila está vazia.
+   - Insere() - coloca um elemento elem no final da fila. 
+   - Remove() - retira o primeiro elemento da fila.
+   - Primeiro() - retorna o primeiro elemento da fila sem removê-lo.
+

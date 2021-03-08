@@ -1,0 +1,29 @@
+/********************************************************
+*
+* Name: Binaria.h
+* Purpose: Implements a binary tree
+* Author: Fabio Amorim da Silva
+*
+*********************************************************/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+typedef struct Node{
+
+   int num;
+   struct Node *esq;
+   struct Node *dir;
+
+}Node;
+
+typedef struct Arv{
+
+   Node *raiz;
+
+}Arv;
+
+
+
+
+

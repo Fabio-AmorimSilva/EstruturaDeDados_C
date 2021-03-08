@@ -1,0 +1,12 @@
+Pilha - Resumo
+
+ - Pilhas são um tipo abstrato de dados que obedece a formatação LIFO (Last in/First out).
+
+Operações básicas
+ - clear() - limpa a pilha.
+ - isEmpty() - Verifica se a pilha está vazia.
+ - push(elem) - Coloca o elemento elem no topo da pilha.
+ - pop() - Remove o primeiro elemento da pilha.
+ - topEl() - Retorna o primeiro elemento da pilha sem remove-lo.
+
+
